@@ -1,5 +1,3 @@
-# Disaster-Relief-Tool
-a project by some sleep-deprived college students.
 # 🆘 Disaster Relief Coordination Tool
 
 A privacy-focused web application for coordinating disaster relief efforts, connecting people who need help with volunteers and resources.
